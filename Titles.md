@@ -16,4 +16,4 @@
 * Is the application of AI in consumer tech a good decision?
 
 ## Final Title:
-* **Is the application of AI in consumer tech a good decision? or Is applying AI to pre-existing consumer technology effective?
+* __*Is the application of AI in consumer tech a good decision?*__ or __*Is applying AI to pre-existing consumer technology effective?*__
