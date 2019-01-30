@@ -1,20 +1,21 @@
-## introduction
+* introduction
 
-## hardware enabled ai devices
+  * hardware enabled ai devices
 
-### phones
-#### huawei mate 10 process
+  * phones
+    * huawei mate 10 process
 
-### nvidia consumer graphics cards
+  * nvidia consumer graphics cards
 
-## cloud based ai devices
+* cloud based ai devices
 
-### amazon alexa Products
+  * amazon alexa Products
 
-### google assistant on android devices
+  * google assistant on android devices
 
-## compare costs of hardware enabled vs cloud based ai
+* comparisons
+  * compare costs of hardware enabled vs cloud based ai
 
-## compare benefits and drawbacks of hardware enabled vs cloud based ai
+  * compare benefits and drawbacks of hardware enabled vs cloud based ai
 
-## conclusion
+* conclusion
