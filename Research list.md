@@ -9,11 +9,29 @@
 * Huawei Mate 10 Pro (phone with AI) full review: https://www.forbes.com/sites/bensin/2017/10/30/huawei-mate-10-pro-review-an-a-i-phone-that-grows-on-you/#491fecde6520
 * Huawei Mate 10 Pro AI focused article: https://www.forbes.com/sites/bensin/2017/10/16/huawei-mate-10-pro-hands-on-intelligent-phone-takes-aims-at-iphone-x/#4fc0c95262d4
 
+#### Nvidia Volta GPU architecture (Tensor Cores)
+* Only one consumer GPU model available from this architecture
+  * Nvidia Titan V
+    * Early application of tensor cores on a GPU
+    * As such is very expensive ($2999 USD)#
+* One workstation/server grade GPU model
+  * Nvidia Quadro GV100
+   * High cost ($8999 USD) from early use of tensor cores and a very high end GPU
+
 #### Nvidia RTX 2000 series GPUs with AI cores (Tensor Cores)
 * Nvidia Website about the RTX/Turing archtitecture: https://www.nvidia.com/en-us/design-visualization/technologies/rtx/
 * The Verge article about the details of the RTX/Turing Architecture: https://www.theverge.com/2018/9/14/17854230/nvidia-rtx-2080-turing-architecture-specs-platform
 * Hot Hardware article on RTX/Turing Architecture: https://hothardware.com/news/nvidia-geforce-rtx-2080-performance-and-dlss
 * Tom's Hardware article on RTX/Turings Tensor cores and DLSS: https://www.tomshardware.com/reviews/nvidia-turing-gpu-architecture-explored,5801-5.html
+
+* Product Stack:
+  * GeForce RTX 2060 ($350 USD) with 240 Tensor cores
+  * GeForce RTX 2070 ($599 USD) with 288 Tensor cores
+  * GeForce RTX 2080 ($799 USD) with 368 Tensor cores
+  * GeForce RTX 2080 Ti ($1199 USD) with 544 Tensor cores
+  * Titan RTX ($2499 USD) with 576 Tensor cores
+
+#### Nvidia DGX-1
 
 ### Cloud Based AI services
 
@@ -45,11 +63,11 @@ Found on:
 * Virtual Assistant developed by Google
 * The successor of Google Now (a voice command based app) [Google Now Wikipedia]("https://en.wikipedia.org/wiki/Google_Now")
 * Supports two way conversations unlike it's predecessor (Google Now)
-* Main uses:
+* [Main uses:]("https://www.tomsguide.com/us/pictures-story/917-best-google-assistant-features.html#s30")
   * Open apps
   * Search the internet via Google for information, pictures, videos and news
   * Get advice on where to eat, drink, dance or shop
-  * Play movies and tv shows on apps like netflix and youtube
+  * Play movies and tv shows on apps like Netflix and YouTube
   * read you the latest news
   * read you the latest sports results
   * predict the weather
@@ -62,6 +80,9 @@ Found on:
   * create shopping lists
   * set alarms
   * plan routes
+  * send texts and make calls
+  * set timers
+  * perform calculations
 
 ##### Google Duplex
 * Phone call service
@@ -73,15 +94,7 @@ Found on:
 ##### Google Home
 ##### Most Android devices
 
-
+Other examples
 #### Microsoft Cortana
-Found on:
-##### Microsoft Windows 10
-##### Microsoft Windows Phones
-
-
-
 #### Apple Siri
-Found on:
-##### Apple Homepod
-##### Apple iPhones
+#### Samsung Bixby
