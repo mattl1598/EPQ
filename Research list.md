@@ -13,7 +13,7 @@
 * Only one consumer GPU model available from this architecture
   * Nvidia Titan V
     * Early application of tensor cores on a GPU
-    * As such is very expensive ($2999 USD)#
+    * As such is very expensive ($2999 USD)
 * One workstation/server grade GPU model
   * Nvidia Quadro GV100
    * High cost ($8999 USD) from early use of tensor cores and a very high end GPU
@@ -31,7 +31,6 @@
   * GeForce RTX 2080 Ti ($1199 USD) with 544 Tensor cores
   * Titan RTX ($2499 USD) with 576 Tensor cores
 
-#### Nvidia DGX-1
 
 ### Cloud Based AI services
 
