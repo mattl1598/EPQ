@@ -1,6 +1,8 @@
+# Rough Essay Plan
+
 * introduction
 
-  * hardware enabled ai devices
+* hardware enabled ai devices
 
   * phones
     * huawei mate 10 process
