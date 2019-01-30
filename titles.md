@@ -1,4 +1,4 @@
-<sup> [Back](..) </sup>
+<sup> [Back](.) </sup>
 # Draft Titles for the EPQ
 ### Topics
 * Computer Science
