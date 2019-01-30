@@ -3,6 +3,6 @@
 ### [Title planning](titles)
 
 Final EPQ Title:
-# __*Is the application of AI in consumer tech a good decision?*__
+# __*Is the application of AI in consumer technology a good decision?*__
 
 ## [Research page](research)
