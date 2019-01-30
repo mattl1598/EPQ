@@ -45,9 +45,30 @@ Found on:
 * Virtual Assistant developed by Google
 * The successor of Google Now (a voice command based app) [Google Now Wikipedia]("https://en.wikipedia.org/wiki/Google_Now")
 * Supports two way conversations unlike it's predecessor (Google Now)
-*
+* Main uses:
+  * Open apps
+  * Search the internet via Google for information, pictures, videos and news
+  * Get advice on where to eat, drink, dance or shop
+  * Play movies and tv shows on apps like netflix and youtube
+  * read you the latest news
+  * read you the latest sports results
+  * predict the weather
+  * send a voice message to another google assistant enabled device
+  * book movie tickets
+  * play music through Google Play Music or Spotify
+  * read out missed emails
+  * read out the appointments for the day from your calendar
+  * set reminders
+  * create shopping lists
+  * set alarms
+  * plan routes
 
 ##### Google Duplex
+* Phone call service
+* Lets the Google Assistant make phone calls on your behalf
+* Such as making reservations at restaurants or booking appointments.
+
+
 Found on:
 ##### Google Home
 ##### Most Android devices
