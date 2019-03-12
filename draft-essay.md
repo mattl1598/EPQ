@@ -79,6 +79,11 @@ With cloud-based AI, the client devices are usually of lower cost, such as a sma
 
 One of the main applications of these cloud-based AI's in consumer homes is integration with smart home devices such as light fixtures and smart tvs through a process called If This Then That (IFTTT). When a company wants to interface between their product and a smart home, they have to build the circuits and software to run them into the product itself. Usually, the company will also have the product connect to their servers to makes sure the software is up to date and has all the latest security patches to prevent backdoor access into the users home network. However, this not always free. Many companies charge a monthly fee to add IFTTT integration for their new device into their existing smart home environment and if a user is connecting most of the devices in their home that can be smart-enabled, then the many monthly fees can grow into a very large sum being paid each month.
 
+### benefits and drawbacks of hardware based and cloud based artificial intelligence
 
+The main advantage of hardware over cloud based artificial intelligence is the increased power of the local hardware compared to the outsourced processing of a cloud based AI running on a remote server. This additional power lets the AI complete more complex tasks and work faster at tasks that both methods offer.
+On the other hand, the biggest advantage of a cloud based ai is the professional development of the commands that the user can give it. For example, the incredibly advanced feature that is Google Duplex has been developed by a whole team of software engineers from Google so the service is almost guaranteed to be of a high quality and be more polished than an open source project made by the community.
+
+Another advantage of the hardware based AI is the use of it to supplement the existing hardware processing. 
 
 ## conclusion
