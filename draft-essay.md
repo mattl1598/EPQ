@@ -34,7 +34,7 @@ Nvidia uses very powerful supercomputers in their server farms to inspect hours 
 Another use for the Tensor cores is for rapid development and training of an AI that is being made by someone who doesn't have access to the same level of servers that large companies with large budgets do. By integrating the Tensor cores onto a graphics card means that a high power workstation can have access to this technology without spending extra on a dedicated Tensor core expansion card.
 
 The main advantage of this addition to a consumer graphics card is the better allocation of resources. The graphics card can now use more of its main 3D compute power for the rendering of the main graphics and can offload the anti aliasing to the Tensor cores. As some of the main 3D graphics cores are no longer being used for the post processing effects like anti aliasing, the main graphics rendering has more resources to be powered by therefore, it can run at higher resolutions or frame rates without having to turn off any other effects.
-Another advantage is that the additional Tensor cores allow the graphics card to be better utilised in the development and creation of new artificial intelligences by smaller developers. The Tensor cores 
+Another advantage is that the additional Tensor cores allow the graphics card to be better utilised in the development and creation of new artificial intelligences by smaller developers. The Tensor cores
 
 One drawback of the way Nvidia is distributing DLSS is that it only works on a game by game basis meaning that if a game has not been analysed in Nvidia's supercomputer, the DLSS is unlikely to work and, if it does work, the effect is going to be less noticeable to the user. However, this drawback is more about the delivery of the trained AI rather than a criticism of putting the dedicated hardware on the card.
 
@@ -42,7 +42,7 @@ One drawback of the way Nvidia is distributing DLSS is that it only works on a g
 
 Some artificial intelligences are not powered by the device they appear to be running on and are instead usually based in "the cloud" or on a server in a large data center somewhere else in the world and the client device sends commands to the servers AI so that it can respond.
 
-common applications of these cloud AI's are in low power voice interactive speakers such as the Amazon Echo line up and Google Home products. These smart speakers have basic commands for various activities including:
+Common applications of these cloud AI's are in low power voice interactive speakers such as the Amazon Echo line up and Google Home products. These smart speakers have basic commands for various activities including:
 * music playback,
 * making to do lists,
 * setting alarms,
@@ -59,5 +59,9 @@ Another place a cloud based AI is likely to be found is on a smartphone in the f
 * plan routes with directions for navigation
 * sending texts and starting calls.
 
+One of the features offered by Googles Virtual Assistant is the ability to make phone calls on behalf of the use
+
 
 One advantage of using a cloud based AI service is that the provider can have as much processing power dedicated to the AI as they need since they are not restricted by the space limitations of a modern smartphone or smart speaker. This means that the AI can become more and more complex based on the needs of the provider and their users whilst still being accessible to those who are not using the latest and most powerful client devices as the system requirements to run the user interface are often quite low.
+
+One disadvantage of running the AI on a seperate device is that the providers of the AI services and deliver parts or all of the functionality as a monthly subscription despite the AI being advertised as being "built in" to the client device.
