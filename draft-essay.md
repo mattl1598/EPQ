@@ -59,10 +59,14 @@ Another place a cloud based AI is likely to be found is on a smartphone in the f
 * plan routes with directions for navigation
 * sending texts and starting calls.
 
-One of the features offered by Googles Virtual Assistant is the ability to make phone calls on behalf of the user. Currently, the main applications of an automated assistant that can make phone calls are to book appointments at places like the doctors office, to place a reservations at a restaurants, or the book a room at a hotel.
-The assistant uses AI for vocal recognition to work out what the person on the other end said and to say a good response based on the last thing that was said. The AI 
+One of the features offered by Googles Virtual Assistant is an ability to make phone calls on behalf of the user named Google Duplex. Currently, the main applications of an automated assistant that can make phone calls are to book appointments at places like the doctors office, to place a reservations at a restaurants, or the book a room at a hotel.
+The assistant uses AI for vocal recognition to work out what the person on the other end said and to say a good response based on the last thing that was said.
+Other thing the AI is utilised for in the process of making the automated calls is speech fluency. Duplex introduces "speech disfluencies" into its computer generated speech to make the voice sound less robotic and to help the conversation flow with more fluidity. "Speech disfluencies" are small vocal breaks in the flow of an individual sentence. These vocal breaks are usually a type of non-verbal, vocal sounds such as "um" and "err" to cover when the brain takes a bit longer to formulate a word and sounds like "mm-hmm" to show acknowledgement of the last sentence when a suitable word or phrase isn't available.
 
 
 One advantage of using a cloud based AI service is that the provider can have as much processing power dedicated to the AI as they need since they are not restricted by the space limitations of a modern smartphone or smart speaker. This means that the AI can become more and more complex based on the needs of the provider and their users whilst still being accessible to those who are not using the latest and most powerful client devices as the system requirements to run the user interface are often quite low.
 
 One disadvantage of running the AI on a seperate device is that the providers of the AI services and deliver parts or all of the functionality as a monthly subscription despite the AI being advertised as being "built in" to the client device.
+
+
+## conclusion
