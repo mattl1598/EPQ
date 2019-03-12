@@ -4,3 +4,14 @@ The main use for the Tensor cores in the Turing architecture is to power an AI d
 Nvidia analyses hours and hours of gameplay, and by comparing the differences between un-aliased and and perfectly aliased frames to teach an AI what to focus on to improve the effect of DLSS. The trained AI's are released to the public through driver updates so that the DLSS technique is always improving for supported games.
 
 One drawback of the way Nvidia is distributing DLSS is that it only works on a game by game basis meaning that if a game hasn't been analysed in nvidias supercomputer, the DLSS is unlikely to work and, if it does work, the effect is going to be less noticeable to the user.
+
+
+
+# properly written
+
+The second implementation of artificial intelligence hardware in a mainstream consumer product is the addition of Tensor cores as part of the latest graphics processing unit (GPU) architecture from Nvidia, who have the largest market share for discrete graphics. As this is the first time a GPU has been designed with specialised hardware for AI, the number of Tensor cores is contributes to a small amount of the processing power of the GPU but as it is just an extra addition rather than the main reason for buying the card, it won't make too much difference to the consumer. With the new addition of the Tensor cores as well as some other new technologies that are being sold to the public for the first time, the price for these new generation of GPUs is much higher than previous ones but this is quite normal and is considered a sort of early adopter tax for these new technologies.
+
+The main use for the Tensor cores in the Turing architecture is to power an AI dedicated to applying a new type of anti-aliasing to the graphics in video games. Anti-aliasing is a form of post processing designed to smooth out jagged edges from horizontal lines. The AI can be used to analyse the image to identify the edges and then focus the anti-aliasing processing on those areas to reduce the load or improve the quality.
+Nvidia analyses hours and hours of gameplay, and by comparing the differences between un-aliased and perfectly aliased frames to teach an AI what to focus on to improve the effect of DLSS. The trained AI's are released to the public through driver updates so that the DLSS technique is always improving for supported games.
+
+One drawback of the way Nvidia is distributing DLSS is that it only works on a game by game basis meaning that if a game hasn't been analysed in Nvidias supercomputer, the DLSS is unlikely to work and, if it does work, the effect is going to be less noticeable to the user. However, this drawback is more about the delivery of the trained AI rather than a critism of putting the dedicated hardware on the card.
