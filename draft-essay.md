@@ -59,7 +59,8 @@ Another place a cloud based AI is likely to be found is on a smartphone in the f
 * plan routes with directions for navigation
 * sending texts and starting calls.
 
-One of the features offered by Googles Virtual Assistant is the ability to make phone calls on behalf of the use
+One of the features offered by Googles Virtual Assistant is the ability to make phone calls on behalf of the user. Currently, the main applications of an automated assistant that can make phone calls are to book appointments at places like the doctors office, to place a reservations at a restaurants, or the book a room at a hotel.
+The assistant uses AI for vocal recognition to work out what the person on the other end said and to say a good response based on the last thing that was said. The AI 
 
 
 One advantage of using a cloud based AI service is that the provider can have as much processing power dedicated to the AI as they need since they are not restricted by the space limitations of a modern smartphone or smart speaker. This means that the AI can become more and more complex based on the needs of the provider and their users whilst still being accessible to those who are not using the latest and most powerful client devices as the system requirements to run the user interface are often quite low.

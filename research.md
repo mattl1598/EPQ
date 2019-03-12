@@ -93,7 +93,7 @@ Found on:
 * Phone call service
 * Lets the Google Assistant make phone calls on your behalf
 * Such as making reservations at restaurants or booking appointments.
-
+https://techcrunch.com/2018/06/27/a-closer-look-at-google-duplex/
 
 Found on:
 ##### Google Home
