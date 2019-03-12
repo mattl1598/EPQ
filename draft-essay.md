@@ -68,5 +68,11 @@ One advantage of using a cloud based AI service is that the provider can have as
 
 One disadvantage of running the AI on a seperate device is that the providers of the AI services and deliver parts or all of the functionality as a monthly subscription despite the AI being advertised as being "built in" to the client device.
 
+## comparisons
+
+### costs of hardware vs cloud-Based ai
+
+One of the main comparison points between hardware enabled Artificial Intelligence and Cloud based Artificial Intelligence is that of cost.
+With hardware enabled AI, the main cost is usually a one time purchase of the hardware device that has the processing cores for the AI. On one hand, the one off cost of the hardware is good since it guarantees the availability of the AI processing benefits whilst the hardware is functional. On the other hand, the one time purchase is of hardware that will, almost certainly, become outdated with new products being launched, with typically generational improvements to the hardware, and eventually, the hardware that was purchased will need to be replaced to keep up with the power the AI requires for large amounts of data to be processed or the speed requirements that the user or users clients have for the training of the AI.
 
 ## conclusion
