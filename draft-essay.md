@@ -34,8 +34,9 @@ Nvidia uses very powerful supercomputers in their server farms to inspect hours 
 Another use for the Tensor cores is for rapid development and training of an AI that is being made by someone who doesn't have access to the same level of servers that large companies with large budgets do. By integrating the Tensor cores onto a graphics card means that a high power workstation can have access to this technology without spending extra on a dedicated Tensor core expansion card.
 
 The main advantage of this addition to a consumer graphics card is the better allocation of resources. The graphics card can now use more of its main 3D compute power for the rendering of the main graphics and can offload the anti aliasing to the Tensor cores. As some of the main 3D graphics cores are no longer being used for the post processing effects like anti aliasing, the main graphics rendering has more resources to be powered by therefore, it can run at higher resolutions or frame rates without having to turn off any other effects.
+Another advantage is that the additional Tensor cores allow the graphics card to be better utilised in the development and creation of new artificial intelligences by smaller developers. The Tensor cores 
 
-One drawback of the way Nvidia is distributing DLSS is that it only works on a game by game basis meaning that if a game has not been analysed in Nvidias supercomputer, the DLSS is unlikely to work and, if it does work, the effect is going to be less noticeable to the user. However, this drawback is more about the delivery of the trained AI rather than a critism of putting the dedicated hardware on the card.
+One drawback of the way Nvidia is distributing DLSS is that it only works on a game by game basis meaning that if a game has not been analysed in Nvidia's supercomputer, the DLSS is unlikely to work and, if it does work, the effect is going to be less noticeable to the user. However, this drawback is more about the delivery of the trained AI rather than a criticism of putting the dedicated hardware on the card.
 
 # Software/cloud based AI
 
