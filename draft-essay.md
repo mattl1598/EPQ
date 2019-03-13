@@ -70,11 +70,11 @@ Other thing the AI is utilised for in the process of making the automated calls 
 
 One advantage of using a cloud based AI service is that the provider can have as much processing power dedicated to the AI as they need since they are not restricted by the space limitations of a modern smartphone or smart speaker. This means that the AI can become more and more complex based on the needs of the provider and their users whilst still being accessible to those who are not using the latest and most powerful client devices as the system requirements to run the user interface are often quite low.
 
-One disadvantage of running the AI on a seperate device is that the providers of the AI services and deliver parts or all of the functionality as a monthly subscription despite the AI being advertised as being "built in" to the client device.
+One disadvantage of running the AI on a separate device is that the providers of the AI services and deliver parts or all of the functionality as a monthly subscription despite the AI being advertised as being "built in" to the client device.
 
 ## comparisons
 
-### costs of hardware vs cloud-Based ai
+### costs of hardware vs cloud-Based AI
 
 One of the main comparison points between hardware enabled Artificial Intelligence and Cloud based Artificial Intelligence is that of cost.
 With hardware enabled AI, the main cost is usually a one time purchase of the hardware device that has the processing cores for the AI. On one hand, the one off cost of the hardware is good since it guarantees the availability of the AI processing benefits whilst the hardware is functional. On the other hand, the one time purchase is of hardware that will, almost certainly, become outdated with new products being launched, with typically generational improvements to the hardware, and eventually, the hardware that was purchased will need to be replaced to keep up with the power the AI requires for large amounts of data to be processed or the speed requirements that the user or users clients have for the training of the AI. As the hardware will have to be regularly replaced, the large payments at the time of each purchase of a piece of hardware to power the AI will add up over time to a much bigger sum.
@@ -86,7 +86,7 @@ One of the main applications of these cloud-based AI's in consumer homes is inte
 ### benefits and drawbacks of hardware based and cloud based artificial intelligence
 
 The main advantage of hardware over cloud based artificial intelligence is the increased power of the local hardware compared to the outsourced processing of a cloud based AI running on a remote server. This additional power lets the AI complete more complex tasks and work faster at tasks that both methods offer.
-On the other hand, the biggest advantage of a cloud based ai is the professional development of the commands that the user can give it. For example, the incredibly advanced feature that is Google Duplex has been developed by a whole team of software engineers from Google so the service is almost guaranteed to be of a high quality and be more polished than an open source project made by the community.
+On the other hand, the biggest advantage of a cloud based AI is the professional development of the commands that the user can give it. For example, the incredibly advanced feature that is Google Duplex has been developed by a whole team of software engineers from Google so the service is almost guaranteed to be of a high quality and be more polished than an open source project made by the community.
 
 Another advantage of the hardware based AI is the use of it to supplement the existing hardware processing. In both the Huawei Mate 10 Pro and in Nvidia's RTX 2000 series graphics cards, Artificial Intelligence is used to increase the performance in the respective devices in a manner that will be noticeable to the end user, whether that is a more responsive mobile experience by reducing the performance drain of background tasks from the Huawei, or higher frames per second or better quality graphics in video games from offloading parts of the postprocessing to an AI specific part of the chip powered by Nvidia's graphics card.  
 
