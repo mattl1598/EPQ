@@ -6,6 +6,9 @@
 
 * hardware enabled ai devices
 
+  * self driving cars - forgot about this one in first draft
+
+
   * phones
     * huawei mate 10 process
 
