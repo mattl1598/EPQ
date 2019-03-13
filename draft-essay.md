@@ -1,3 +1,5 @@
+# Is the application of AI in consumer technology a good decision?
+
 ## Introduction
 
 Artificial Intelligence or AI is, in very basic terms, the ability of a computer program or machine to think and learn.
@@ -9,7 +11,6 @@ On the surface, the extraordinary ability of AI in handling and processing large
 The challenge that companies attempting to use AI are facing is trying to find the right balance between applying AI in consumer devices and not wasting resources on developing an unnecessarily complicated way of solving basic problems. Now that the market has decided to begin adding AI to as many devices as possible, ranging from fridges and light fixtures to robotic vacuum cleaners and smartphones, it begs the question, "Is the introduction of Artificial Intelligence into every consumer electronic device actually beneficial to the way the devices function?" or is it just another marketing buzzword and gimmick to help designers and manufactures sell as many of their gadgets and gizmos as they can to try and turn the largest profit?
 
 ## Hardware enabled AI devices
-
 
 ### Huawei Mate 10 Pro
 One more affordable consumer device that utilises hardware based AI is the Huawei Mate 10 Pro smartphone.
