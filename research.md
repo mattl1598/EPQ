@@ -37,6 +37,9 @@ https://simple.wikipedia.org/wiki/Artificial_intelligence
   * GeForce RTX 2080 Ti ($1199 USD) with 544 Tensor cores
   * Titan RTX ($2499 USD) with 576 Tensor cores
 
+#### Teslaa autopilot
+https://www.techrepublic.com/article/teslas-autopilot-cheat-sheet/
+https://www.iotforall.com/how-do-self-driving-cars-work/
 
 ### Cloud Based AI services
 
